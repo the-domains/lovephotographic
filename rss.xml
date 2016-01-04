@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lovephotographic]]></title>
+        <description><![CDATA[lovephotographic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 03:39:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[G-Eazy]]></title>
+            <description><![CDATA[<article><h1>G-Eazy</h1><p>Portraits of the up and coming rapper, G-Eazy</p></article>]]></description>
+            <link>undefinedg-eazy/index.html</link>
+            <guid isPermaLink="false">80d131e6-bb8c-4271-9240-27149448afc8</guid>
+            <pubDate>Mon, 04 Jan 2016 03:39:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
