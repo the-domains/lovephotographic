@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[lovephotographic]]></title>
         <description><![CDATA[lovephotographic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lovephotographic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 03:39:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 16:44:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lovephotographic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[G-Eazy]]></title>
-            <description><![CDATA[<article><h1>G-Eazy</h1><p>Portraits of the up and coming rapper, G-Eazy</p></article>]]></description>
-            <link>undefinedg-eazy/index.html</link>
+            <description><![CDATA[<article><h1>G-Eazy</h1><p>Portraits of the up and coming rapper, G-Eazy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2a1627b1866af3e0a6344540ef0c37e15977f49.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lovephotographic/g-eazy/index.html</link>
             <guid isPermaLink="false">80d131e6-bb8c-4271-9240-27149448afc8</guid>
-            <pubDate>Mon, 04 Jan 2016 03:39:18 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 16:44:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
